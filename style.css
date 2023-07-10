@@ -146,10 +146,35 @@
     text-align: left;
     margin-right: 560px;
     margin-top: 70px;
+  
 }
 .buttons{
     margin-top: 190px;
     margin-left: -904px;
     padding: 5px;
     color: #F15B22;
+}
+
+.footer-container{
+    margin-top: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 60px;
+}
+
+.first-section{
+    margin-top: 40px;
+    color: white;
+}
+
+.second-section{
+    color: white;
+}
+
+.social-icons{
+    display: flex;
+    gap: 10px;
+    margin-top: 5px;
 }
